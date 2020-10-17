@@ -21,4 +21,8 @@
 
 ### Save Image
 
-<code> docker save <image-tag> --output <image name>.tar
+<code> docker save <image-tag> --output <image name>.tar </code>
+  
+### Running container interactive mode
+
+<code> docker run -it <image> <code>
