@@ -13,8 +13,12 @@
 
 ### Remove Image
 
-<code> docker rmf <code>
+<code> docker rmf </code>
 
 ### Remove by force
 
 <code> docker rmf -f </code>
+
+### Save Image
+
+<code> docker save <image-tag> --output <image name>.tar
