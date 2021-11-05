@@ -30,3 +30,6 @@
 ### Running container interactive mode
 
 <code> docker run -it <image> </code>
+  
+### Enter a container shell
+<code> docker exec -it "container id" bash </code>
